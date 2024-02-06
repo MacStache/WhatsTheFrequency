@@ -1,45 +1,42 @@
 @media only screen and (max-width: 1200px) {
-    div#content {
-        flex-direction: column;
-        section {
-            width: 100%;
-            flex-direction: row;
-            margin: 0;
-            article {
-                flex: 50%;
-                div {
-                    img {
-                        height: 350px;
-                    }
-                }
-            }
-         }
-        aside {
-        width: 100vw;
-        padding: $general-padding;
-        padding-left: $general-padding / 2;
-        }
-    }
     table {
         width: 100%;
+    }
+    div#about{
+        margin-top: 300px;
+        p {
+            font-size: normal;
+            width: 100%;
+        }
     }
     
 }
 
 @media only screen and (max-width: 799px) {
-    div#content section {
-        flex-direction: column;
-    }
     table {
         width: 100%;
         font-size: small;
+    }
+    div#about{
+        margin-top: 300px;
+        p {
+            font-size: normal;
+            width: 100%;
+        }
     }
     
 }
 
 
-@media (min-width: 800px) {
+@media (max-width: 800px) {
     table {
         width: 100%;
+    }
+    div#about{
+        margin-top: 400px;
+        p {
+            font-size: normal;
+            width: 100%;
+        }
     }
 }

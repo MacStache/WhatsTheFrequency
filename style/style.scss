@@ -14,7 +14,7 @@ a {
     text-decoration: none;
     &:hover {
         color: $accent-color;
-        font-weight: bold;
+        font-weight: normal;
     }
 }
 
@@ -33,15 +33,37 @@ header {
 footer {
     @include flex-container;
     background-color: $dark-background-color;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 50px;
     p {
+        color: $light-foreground-color;
+    }
+    a{
         color: $light-foreground-color;
     }
 }
 
-div#container {
-    display: flex;
+div#about{
+    @include flex-container;
     flex-direction: column;
     margin: $general-margin;
+    margin-top: 250px;
+    img {
+        width: 100%;
+        height: auto;
+    }
+    p {
+        font-size: large;
+        text-align: justify;
+        max-width: 750px;
+    }
+    a {
+        text-decoration: underline;
+        font-weight: normal;
+    }
+
 }
 
 div#input {
@@ -57,43 +79,11 @@ div#input {
 
 }
 
-div#content {
-    display: inherit;
-    section {
-        display: inherit;
-        flex-direction: row;
-        flex-wrap: wrap;
-        width: 80vw;
-        margin: $general-margin;
-    }
-    aside {
-        width: 20vw;
-        padding: $general-padding;
-    }
-}
-
-article {
-    flex: 33.33%;
-    div {
-        margin: $general-margin;
-        border: 1px solid $grey-foreground-color;
-        img {
-            height: 500px;
-            width: 100%;
-            object-fit: cover;
-            object-position: center;
-        }
-        h3,p {
-            margin: $general-margin;
-        }
-    }
-}
-
 table {
     width: 100%;
     border-collapse: collapse;
     margin: 0 auto 20px;
-    
+    margin-bottom: 50px;
     th, td {
       padding: 10px;
       border: 1px solid #ddd;
@@ -117,4 +107,4 @@ table {
     }
   }
 
-@import "media-query";
+  @import "media-query";

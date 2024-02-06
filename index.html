@@ -20,17 +20,46 @@
             <div>
             <nav>
                 <ul>
-                    <li><a href="#">About</a></li>
-                    <li><a href="#">Frequencies</a></li>
+                    <li><a href="index.html">About</a></li>
+                    <li><a href="frequencies.html">Frequencies</a></li>
                 </ul>
             </nav>
             </div>
-            <div id="input">
+            <div id="about">
+
+                <p> <b>What's The Frequency</b> is a web application that allows the user to find the radio frequencies available 
+                    at the location that they are at right now. The site uses a script to parse the contents of a text file into a table, 
+                    which hosts all the publicly available radio frequencies in Finland.
+                </p>
                 <p>
-                <input type="text" id="location" name="location" placeholder="Enter your location">
+                    The frequencies have been collected from the 
+                    <a href="https://www.traficom.fi/en/communications/tv-and-radio/radio-stations-finland">publicly available database</a> of 
+                    <a href="https://www.traficom.fi/en">Traficom</a>, the Finnish Transport and Communications Agency.
+                </p>
+                <p>
+                    The frequencies can be downloaded as a <a href="https://github.com/MacStache/WhatsTheFrequency/blob/main/text/frequencies.txt">text file</a> 
+                    from the <a href="https://www.traficom.fi/en/communications/tv-and-radio/radio-stations-finland">Traficom website</a>.
+                    The downloaded file included a lot of data that is unnecessary for this project, which means that it needed to be cleaned. 
+                    The cleaning was done using a <a href="https://github.com/MacStache/WhatsTheFrequency/blob/main/text/cleaner.py">Python script</a>.
+                    The resulting <a href="https://github.com/MacStache/WhatsTheFrequency/blob/main/text/cleaned_frequencies.txt">text file</a> 
+                    only includes the locations, names and frequencies of the radio stations.
+                </p>
+                <p>
+                    The frequencies table includes a search bar that allows the user to search for a specific location which will then be used to filter the frequencies.
+                    The site also includes an automated script that will add a link to the stations website. The link table was stripped from the cleaned frequencies text file and 
+                    ran again through a modified <a href="https://github.com/MacStache/WhatsTheFrequency/blob/main/text/fetcher.py">Python script</a> that removes everything but 
+                    the station names from <a href="https://github.com/MacStache/WhatsTheFrequency/blob/main/text/stations_list.txt">the file</a>. 
+                    It also removes duplicates which made the link table easier to manage. 
+                </p>
+                <p>
+                    The site is a final project for the course "Web Applications" at <a href="https://oamk.fi/en/">Oulu University of Applied Sciences</a>.
                 </p>
             </div>
+            <footer>
+                <p>
+                    Made by: Henri Laukka | <a href="https://github.com/MacStache/WhatsTheFrequency/">The GitHub repository for this project</a>
+                </p>
+            </footer>
         </div>
-        <script src="js/functions.js"></script>
     </body>
 </html>

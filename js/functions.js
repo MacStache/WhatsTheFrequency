@@ -12,9 +12,6 @@ fetch('text/cleaned_frequencies.txt')
         const tableData = rows.map(row => row.split('\t'));
         table = createTable(tableData);
         document.body.appendChild(table);
-        //luodaan footer. Jostain syystä tälle piti etsiä tarkka paikka tästä, koska HTML-koodiin sisällytettynä 
-        //se olisi tullut taulukon yläpuolelle. Asynkronisesta suorituksesta johtuen? En tiedä miksi, mutta nyt toimii, joten en koske enää.
-        createFooter();
     })
     .catch(error => console.error('Error fetching the file:', error));
 
@@ -54,13 +51,6 @@ function createTable(tableData) {
     });
     // palautetaan taulukko
     return htmlTable;
-}
-
-// Funktio joka luo footerin
-function createFooter() {
-    const footer = document.createElement('footer');
-    footer.innerHTML = '<p>Made by | Henri Laukka</p>';
-    document.body.appendChild(footer);
 }
 
 // Funktio, joka suorittaa haun
