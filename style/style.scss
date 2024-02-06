@@ -1,0 +1,120 @@
+@import "variables";
+@import "reset";
+@import "mixins";
+@import "menu";
+
+body {
+    background-color: $light-background-color;
+    color: $dark-foreground-color;
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    &:hover {
+        color: $accent-color;
+        font-weight: bold;
+    }
+}
+
+p {
+    margin: $general-margin;
+}
+
+header {
+    @include flex-container;
+    background-color: $dark-background-color;
+    h1 {
+        color: $light-foreground-color;
+    }
+}
+
+footer {
+    @include flex-container;
+    background-color: $dark-background-color;
+    p {
+        color: $light-foreground-color;
+    }
+}
+
+div#container {
+    display: flex;
+    flex-direction: column;
+    margin: $general-margin;
+}
+
+div#input {
+    width: 100%;
+    margin: 0 auto;
+    input, select {
+        font-size: larger;
+        width: 100%;
+        margin: 0 auto;
+        padding: 20px;
+        text-align: center;
+    }
+
+}
+
+div#content {
+    display: inherit;
+    section {
+        display: inherit;
+        flex-direction: row;
+        flex-wrap: wrap;
+        width: 80vw;
+        margin: $general-margin;
+    }
+    aside {
+        width: 20vw;
+        padding: $general-padding;
+    }
+}
+
+article {
+    flex: 33.33%;
+    div {
+        margin: $general-margin;
+        border: 1px solid $grey-foreground-color;
+        img {
+            height: 500px;
+            width: 100%;
+            object-fit: cover;
+            object-position: center;
+        }
+        h3,p {
+            margin: $general-margin;
+        }
+    }
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 auto 20px;
+    
+    th, td {
+      padding: 10px;
+      border: 1px solid #ddd;
+      text-align: left;
+    }
+    th {
+      background-color: #f2f2f2;
+    }
+    tr:first-child {
+      background-color: #d7d7fe;
+    }
+    td:last-child {
+      text-align: center;
+      width: 20%;
+    }
+    td:first-child {
+      width: 20%;
+    }
+    td:nth-child(2) {
+        width: 60%;
+    }
+  }
+
+@import "media-query";

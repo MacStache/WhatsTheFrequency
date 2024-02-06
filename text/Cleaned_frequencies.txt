@@ -1,0 +1,1097 @@
+Alajärvi	Aito Iskelmä	101,100
+Alajärvi	HitMix	103,900
+Alajärvi	Järviradio	100,100
+Alajärvi	Järviradio	107,900
+Alajärvi	NRJ	102,200
+Alajärvi	PATMOS	106,000
+Asikkala	Järviradio	107,900
+Enontekiö	Yle Radio 1	88,000
+Enontekiö	Yle Radio 1	88,500
+Enontekiö	Yle Radio 1	94,100
+Enontekiö	Yle Radio Suomi	96,000
+Enontekiö	Yle Radio Suomi	98,700
+Enontekiö	Yle Radio Suomi	99,600
+Enontekiö	Yle Sami Radio	101,200
+Enontekiö	Yle Sami Radio	102,200
+Enontekiö	Yle Sami Radio	103,700
+Enontekiö	YleX	90,900
+Enontekiö	YleX	91,400
+Enontekiö	YleX	97,200
+Espoo	Hiidenkallio	87,500-108,000
+Espoo	Iskelmä	96,200
+Espoo	Radio Nova	106,200
+Espoo	Radio Suomipop	98,100
+Espoo	SuomiRock	99,400
+Espoo	Vermo Areena	87,600
+Espoo	Yle Mondo	97,500
+Espoo	Yle Radio 1	87,900
+Espoo	Yle Radio Suomi	94,000
+Espoo	Yle Radio Vega	101,100
+Espoo	Yle X3M	98,900
+Espoo	YleX	91,900
+Eura	Radio Ramona	97,300
+Eurajoki	Loop	101,700
+Eurajoki	Radio City	104,500
+Eurajoki	Radio Dei	95,700
+Eurajoki	Radio Nova	90,400
+Eurajoki	Radio Rock	96,500
+Eurajoki	Radio Suomipop	106,000
+Eurajoki	Yle Radio 1	87,700
+Eurajoki	Yle Radio Suomi	94,800
+Eurajoki	Yle Radio Vega	103,000
+Eurajoki	Yle X3M	99,400
+Eurajoki	YleX	103,500
+Evijärvi	Yle Radio Suomi	90,700
+Haapajärvi	Radio Pooki	95,000
+Haapavesi	89.7	89,700
+Haapavesi	90.0	90,000
+Haapavesi	Iskelmä	100,100
+Haapavesi	Loop	106,100
+Haapavesi	Nostalgia	99,500
+Haapavesi	NRJ	93,400
+Haapavesi	Radio City	88,300
+Haapavesi	Radio Dei	107,400
+Haapavesi	Radio Kaleva	94,300
+Haapavesi	Radio Nova	104,100
+Haapavesi	Radio Pooki	103,300
+Haapavesi	Radio Rock	93,700
+Haapavesi	Radio Sandels	92,000
+Haapavesi	Radio Suomipop	105,600
+Haapavesi	RollFM	90,600
+Haapavesi	SuomiRäp	96,800
+Haapavesi	Yle Radio 1	89,000
+Haapavesi	Yle Radio Suomi	98,400
+Haapavesi	YleX	96,100
+Hammarland	Radio X3m	105,200
+Hankasalmi	Varnes-Hippos raviradio	101,900
+Hanko	Iskelmä	107,500
+Hanko	Loop	95,300
+Hanko	NRJ	95,700
+Hanko	Radio Suomipop	104,500
+Hanko	SuomiRäp	96,200
+Hanko	Yle Radio Suomi	88,400
+Hanko	Yle Radio Vega	101,900
+Hausjärvi	Iskelmä	104,900
+Hausjärvi	Loop	94,700
+Hausjärvi	Radio City	99,600
+Hausjärvi	Radio Voima	91,000
+Hausjärvi	Yle Radio Suomi	107,800
+Helsinki	Aito Iskelmä	95,200
+Helsinki	Basso	104,600
+Helsinki	Classic	92,900
+Helsinki	Classic Hits	88,600
+Helsinki	Easy Hits	91,100
+Helsinki	Finest Plus FM	98,500
+Helsinki	Forum 1	87,500-108,000
+Helsinki	Forum 2	87,500-108,000
+Helsinki	Forum 3	87,500-108,000
+Helsinki	Forum 4	87,500-108,000
+Helsinki	Forum 5	87,500-108,000
+Helsinki	Forum 6	87,500-108,000
+Helsinki	Groove FM	102,800
+Helsinki	HitMix	90,300
+Helsinki	Järviradio	103,100
+Helsinki	Kasari	90,000
+Helsinki	Kiekkoradio	93,600
+Helsinki	Krishna Radio	91,400
+Helsinki	KujaFM/Metropolian opiskeijarad	103,700
+Helsinki	Loop	102,400
+Helsinki	Lähiradio	100,300
+Helsinki	Myyrä 1	87,500-108,000
+Helsinki	Myyrä 2	87,500-108,000
+Helsinki	Myyrä 3	87,500-108,000
+Helsinki	Myyrä 4	87,500-108,000
+Helsinki	Nostalgia	105,500
+Helsinki	NRJ	96,800
+Helsinki	Paikoitushallitoistin	87,500-108,000
+Helsinki	P-CityForum 1	87,500-108,000
+Helsinki	P-CityForum 2	87,500-108,000
+Helsinki	P-Eliel 1	87,500-108,000
+Helsinki	P-Eliel 2	87,500-108,000
+Helsinki	P-Kluuvi 1	87,500-108,000
+Helsinki	P-Kluuvi 2	87,500-108,000
+Helsinki	P-Kluuvi 3	87,500-108,000
+Helsinki	Radio City	101,400
+Helsinki	Radio Dei	89,000
+Helsinki	Radio Helsinki	89,700
+Helsinki	Radio Pooki	106,900
+Helsinki	Radio Rock	92,500
+Helsinki	Radio Trombit	107,400
+Helsinki	Radiotaajuus Helsinki	105,800
+Helsinki	RollFM	97,100
+Helsinki	Snooker turnaus	92,200
+Helsinki	Stockmann 1	87,500-108,000
+Helsinki	Stockmann 2	87,500-108,000
+Helsinki	Stockmann 3	87,500-108,000
+Helsinki	SuomiRäp	94,900
+Helsinki	Tekoälyradio	102,000
+Helsinki	Top51	100,000
+Helsinki	Vuoli-Tunneli	87,500-108,000
+Helsinki	Vva	107,900
+Hollola	Classic	107,400
+Hollola	Loop	102,400
+Hollola	Radio Dei	106,400
+Hollola	Radio Nova	89,700
+Hollola	Radio Rock	94,200
+Hollola	Radio Suomipop	104,400
+Hollola	Yle Radio 1	93,200
+Hollola	Yle Radio Suomi	97,900
+Hollola	Yle Radio Vega	100,600
+Hollola	YleX	95,500
+Huittinen	HitMix	93,000
+Huittinen	Radiotaajuus Huittinen	92,300
+Hyrynsalmi	Aito Iskelmä	90,900
+Hyvinkää	Aito Iskelmä	91,600
+Hyvinkää	Classic	103,400
+Hyvinkää	Finest Plus FM	94,400
+Hyvinkää	Kasari	89,400
+Hyvinkää	Nostalgia	105,600
+Hyvinkää	NRJ	104,000
+Hyvinkää	Radio Rock	95,700
+Hyvinkää	SuomiRock	102,600
+Hämeenkyrö	Iskelmä Sastamala	96,900
+Hämeenkyrö	Radio 957	94,500
+Hämeenlinna	Classic	88,100
+Hämeenlinna	Classic Hits	93,500
+Hämeenlinna	Easy Hits	97,700
+Hämeenlinna	Iskelmä Janne	101,700
+Hämeenlinna	JW.ORG	104,100
+Hämeenlinna	Kasari	95,200
+Hämeenlinna	Radio City Hämeenlinna	88,900
+Hämeenlinna	Radio Dei	106,500
+Hämeenlinna	Radio Nova	100,200
+Hämeenlinna	Radio Rock	92,300
+Hämeenlinna	SuomiRock	96,300
+Hämeenlinna	SuomiRäp	105,900
+Hämeenlinna	Yle Radio 1	98,200
+Hämeenlinna	Yle Radio Suomi	99,200
+Hämeenlinna	Yle Radio Suomi	107,100
+Ii	Radio Kaleva	96,000
+Iisalmi	Aito Iskelmä	88,300
+Iisalmi	Classic Hits	95,100
+Iisalmi	Groove FM	89,500
+Iisalmi	HitMix	99,400
+Iisalmi	Iskelmä	90,500
+Iisalmi	Kasari	102,500
+Iisalmi	Kuhan FM	91,900
+Iisalmi	Loop	95,600
+Iisalmi	NRJ	97,500
+Iisalmi	PATMOS	105,400
+Iisalmi	Radio City	103,100
+Iisalmi	Radio Rock	104,700
+Iisalmi	Radio Sandels	106,300
+Iisalmi	Radio Suomipop	107,300
+Iisalmi	Savon Aallot	93,500
+Iisalmi	Yle Radio 1	87,700
+Iisalmi	Yle Radio Suomi	96,500
+Iisalmi	YleX	92,800
+Ikaalinen	Radio City	92,900
+Ikaalinen	Radio SUN	96,300
+Imatra	Iskelmä	105,300
+Imatra	NRJ	102,500
+Imatra	Radio Suomipop	101,500
+Inari	Radio Nova	106,300
+Inari	Yle Radio 1	87,600
+Inari	Yle Radio 1	88,400
+Inari	Yle Radio Suomi	91,500
+Inari	Yle Radio Suomi	97,400
+Inari	Yle Radio Suomi	98,800
+Inari	Yle Sami Radio	101,900
+Inari	Yle Sami Radio	103,300
+Inari	YleX	89,900
+Inari	YleX	92,800
+Isojoki	Järviradio	98,300
+Janakkala	Järviradio	89,900
+Janakkala	Nostalgia	88,500
+Janakkala	NRJ	97,300
+Joensuu	Aito Iskelmä	104,700
+Joensuu	Classic Hits	97,900
+Joensuu	Easy Hits	105,400
+Joensuu	Kasari	98,700
+Joensuu	Loop	101,900
+Joensuu	Nostalgia	96,400
+Joensuu	Radio City	106,000
+Joensuu	Radio Helsinki	92,300
+Joensuu	Radio Nova	88,700
+Joensuu	Radio Rock	103,700
+Joensuu	Radio Suomipop	102,900
+Joensuu	SuomiRäp	87,900
+Joensuu	Top51	89,600
+Joensuu	Yle Radio 1	88,400
+Joensuu	Yle Radio 1	101,200
+Joensuu	Yle Radio Suomi	97,200
+Joensuu	Yle Radio Suomi	106,900
+Joensuu	YleX	94,900
+Jokioinen	Järviradio 	92,800
+Jokioinen	Radio Nova	94,600
+Jokioinen	SuomiRäp	103,600
+Jomala	Mix Megapol	101,800
+Joroinen	Aito Iskelmä	98,700
+Joroinen	HitMix	90,400
+Joroinen	Kuhan FM	99,500
+Joroinen	Radio Sandels	90,000
+Joroinen	Radiotaajuus Joroinen	94,300
+Joroinen	Savon Aallot	107,400
+Juuka	Karjalainen Syke	103,300
+Juva	HitMix	96,200
+Jyväskylä	Aito Iskelmä	104,000
+Jyväskylä	Basso	101,600
+Jyväskylä	Classic	96,200
+Jyväskylä	Classic Hits	100,100
+Jyväskylä	Easy Hits	104,500
+Jyväskylä	Groove FM	92,000
+Jyväskylä	HitMix	96,800
+Jyväskylä	Iskelmä	107,100
+Jyväskylä	Järviradio	91,300
+Jyväskylä	Kasari	107,800
+Jyväskylä	Killerin Raviradio	90,500
+Jyväskylä	Loop	101,000
+Jyväskylä	Nostalgia	90,900
+Jyväskylä	NRJ	97,300
+Jyväskylä	PATMOS	89,000
+Jyväskylä	Radio City	102,500
+Jyväskylä	Radio Dei	94,100
+Jyväskylä	Radio Helsinki	105,200
+Jyväskylä	Radio Keskisuomalainen	95,900
+Jyväskylä	Radio Nova	105,800
+Jyväskylä	Radio Pooki	104,800
+Jyväskylä	Radio Rock	97,700
+Jyväskylä	Radio Suomipop	95,100
+Jyväskylä	SuomiRock	106,400
+Jyväskylä	SuomiRäp	99,700
+Jyväskylä	Top51	88,000
+Jyväskylä	Yle Radio 1	89,900
+Jyväskylä	Yle Radio Suomi	99,300
+Jyväskylä	Yle Radio Vega	103,500
+Jyväskylä	YleX	87,600
+Jämsä	Iskelmä	100,300
+Jämsä	Järviradio	107,500
+Jämsä	Kilpakorven raviradio	105,000
+Jämsä	Loop	89,600
+Jämsä	NRJ	88,800
+Jämsä	Radio Keskisuomalainen	92,800
+Jämsä	SuomiRäp	94,400
+Järvenpää	Loop	101,800
+Kaarina	Aito Iskelmä	101,000
+Kaarina	Basso	98,700
+Kaarina	Classic	106,800
+Kaarina	Easy Hits	106,400
+Kaarina	HitMix	95,900
+Kaarina	Loop	102,400
+Kaarina	Radio Dei	107,300
+Kaarina	Radio Nova	103,900
+Kaarina	Radio Pooki	92,200
+Kaarina	Radio Robin Hood	91,500
+Kaarina	Radio Rock	97,600
+Kaarina	Radio Suomipop	103,400
+Kaarina	SuomiRock	99,500
+Kaarina	Yle Radio 1	89,800
+Kaarina	Yle Radio Suomi	94,300
+Kaarina	Yle Radio Vega	101,400
+Kaarina	Yle X3M	98,200
+Kaarina	YleX	92,600
+Kajaani	Aito Iskelmä	95,700
+Kajaani	Groove FM	91,300
+Kajaani	HitMix	104,400
+Kajaani	Iskelmä	105,200
+Kajaani	NRJ	101,700
+Kajaani	Radio City	102,100
+Kajaani	SuomiRock	100,500
+Kajaani	SuomiRäp	102,800
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Kalajoen seurakunnan jumalanpal	95,000
+Kalajoki	Radio Pooki	101,000
+Kangasala	Classic Hits	107,100
+Kangasala	PATMOS	91,900
+Kangasala	Radio 957	95,700
+Kangasala	Radio Pooki	99,500
+Kangasala	Radio Suomipop	91,000
+Kangasala	Tekoälyradio	101,600
+Kangasala	Top51	99,100
+Kankaanpää	Aito Iskelmä	100,700
+Kankaanpää	Groove FM	103,200
+Kankaanpää	Iskelmä Sastamala	105,300
+Kankaanpää	Radio 957	92,400
+Kankaanpää	Radio Kankaanpää	104,300
+Kankaanpää	Radio SUN	106,700
+Kannus	Järviradio	92,700
+Karkkila	NRJ	106,700
+Kaustinen	Järviradio	103,700
+Kaustinen	Kaustisten Raviradio	92,400
+Keminmaa	Sea FM Radio	100,900
+Kemiönsaari	Yle Radio Vega	87,600
+Kitee	Järviradio Joensuu	87,700
+Kitee	Karjalainen Syke	102,200
+Kittilä	Aito Iskelmä	107,000
+Kokemäki	Radio Nova	100,700
+Kokemäki	Radio Pori	98,000
+Kokkola	Aito Iskelmä	107,800
+Kokkola	HitMix	89,800
+Kokkola	Järviradio	96,700
+Kokkola	Loop	99,100
+Kokkola	NRJ	104,900
+Kokkola	PATMOS	101,300
+Kokkola	Radio Nova	103,400
+Kokkola	Radio Pooki	89,300
+Kokkola	Radio Suomipop	106,300
+Kokkola	Radio Vaasa - Radio Vasa	100,300
+Kokkola	Yle Radio Suomi	87,600
+Kolari	NRJ	91,600
+Kolari	Radio Nova	107,900
+Kolari	Yle Radio 1	92,200
+Kolari	Yle Radio Suomi	98,100
+Kolari	Yle Sami Radio	103,800
+Kolari	YleX	95,300
+Kontiolahti	Järviradio Joensuu	101,500
+Kontiolahti	Karjalainen Syke	92,800
+Kontiolahti	Tehdasaluetoistin Kontiolahti	87,500-108,000
+Kotka	Aito Iskelmä	100,800
+Kotka	Classic Hits	100,300
+Kotka	Easy Hits	94,800
+Kotka	Ei vielä nimeä	99,900
+Kotka	Iskelmä	87,700
+Kotka	Nostalgia	89,000
+Kotka	NRJ	101,500
+Kotka	Radio City	106,400
+Kotka	Radio Pooki	107,200
+Kotka	SuomiRock	90,700
+Kouvola	Aito Iskelmä	91,700
+Kouvola	Classic Hits	90,300
+Kouvola	Easy Hits	89,300
+Kouvola	Ei vielä nimeä	95,800
+Kouvola	Iskelmä	100,100
+Kouvola	Järviradio 	91,000
+Kouvola	Loop	104,900
+Kouvola	Loop	107,700
+Kouvola	Lyhytaikainen radio	92,500
+Kouvola	Lyhytaikainen radio	106,000
+Kouvola	Nostalgia	101,300
+Kouvola	NRJ	93,800
+Kouvola	Radio City	104,000
+Kouvola	Radio Dei	96,200
+Kouvola	Radio Nova	105,700
+Kouvola	Radio Rock	90,000
+Kouvola	Radio Suomipop	103,300
+Kouvola	Raviradio Kouvola	106,800
+Kouvola	Raviradio Kouvola	106,800
+Kouvola	Raviradio Kouvola	106,800
+Kouvola	Raviradio Kouvola	106,800
+Kouvola	Raviradio Kouvola	106,800
+Kouvola	Raviradio Kouvola	106,800
+Kouvola	Raviradio Kouvola	106,800
+Kouvola	Raviradio Kouvola	106,800
+Kouvola	Raviradio Kouvola	106,800
+Kouvola	Raviradio Kouvola	106,800
+Kouvola	Raviradio Kouvola	106,800
+Kouvola	Raviradio Kouvola	106,800
+Kouvola	Raviradio Kouvola	106,800
+Kouvola	Raviradio Kouvola	106,800
+Kouvola	Raviradio Kouvola	106,800
+Kouvola	Raviradio Kouvola	106,800
+Kouvola	Raviradio Kouvola	106,800
+Kouvola	Raviradio Kouvola	106,800
+Kouvola	Raviradio Kouvola	106,800
+Kouvola	Raviradio Kouvola	106,800
+Kouvola	Raviradio Kouvola	106,800
+Kouvola	SuomiRock	97,500
+Kouvola	SuomiRäp	102,700
+Kouvola	Yle Radio 1	88,500
+Kouvola	Yle Radio Suomi	96,900
+Kouvola	Yle Radio Vega	99,500
+Kouvola	YleX	92,800
+Kristiinankaupunki	Groove FM	105,100
+Kristiinankaupunki	HitMix	105,700
+Kristiinankaupunki	Loop	100,900
+Kristiinankaupunki	Radio City	93,400
+Kristiinankaupunki	Radio Dei	89,500
+Kristiinankaupunki	Radio Nova	107,600
+Kristiinankaupunki	Yle Radio 1	88,900
+Kristiinankaupunki	Yle Radio Suomi	94,200
+Kristiinankaupunki	Yle Radio Suomi	97,200
+Kristiinankaupunki	Yle Radio Vega	102,600
+Kristiinankaupunki	Yle X3M	98,600
+Kristiinankaupunki	YleX	91,000
+Kruunupyy	Groove FM	104,300
+Kruunupyy	HitMix	94,900
+Kruunupyy	Radio City	107,200
+Kruunupyy	Radio Dei	105,900
+Kruunupyy	Radio Nova	98,800
+Kruunupyy	Radio Suomipop	105,300
+Kruunupyy	Yle Radio 1	91,400
+Kruunupyy	Yle Radio Suomi	97,600
+Kruunupyy	Yle Radio Vega	102,700
+Kruunupyy	Yle X3M	99,700
+Kruunupyy	YleX	94,000
+Kuopio	Aito Iskelmä	93,600
+Kuopio	Classic	94,800
+Kuopio	Easy Hits	103,800
+Kuopio	Groove FM	96,700
+Kuopio	HitMix	107,600
+Kuopio	Iskelmä	90,600
+Kuopio	Järviradio	102,900
+Kuopio	Kasari	92,000
+Kuopio	Loop	89,100
+Kuopio	Nostalgia	89,700
+Kuopio	NRJ	101,600
+Kuopio	PATMOS	102,600
+Kuopio	Radio City	93,000
+Kuopio	Radio Dei	106,100
+Kuopio	Radio Helsinki	97,200
+Kuopio	Radio Nova	106,700
+Kuopio	Radio Pooki	99,800
+Kuopio	Radio Rock	100,900
+Kuopio	Radio Sandels	98,500
+Kuopio	Radio Sandels	104,600
+Kuopio	Radio Suomipop	105,300
+Kuopio	Savon Aallot	102,000
+Kuopio	Top51	95,600
+Kuopio	Yle Radio 1	91,600
+Kuopio	Yle Radio Suomi	98,100
+Kuopio	Yle Radio Vega	100,200
+Kuopio	YleX	93,900
+Kurikka	HitMix	105,900
+Kurikka	Radio Suomipop	92,300
+Kuusamo	Aito Iskelmä	101,800
+Kuusamo	NRJ	103,200
+Kuusamo	Radio Kaleva	88,000
+Kuusamo	Radio Nova	100,800
+Kuusamo	Radio Sandels	94,500
+Kuusamo	SuomiRäp	107,100
+Kuusamo	Yle Radio 1	90,700
+Kuusamo	Yle Radio Suomi	95,100
+Kuusamo	YleX	92,800
+Lahti	Aito Iskelmä	103,000
+Lahti	Classic Hits	91,200
+Lahti	Easy Hits	101,500
+Lahti	EsikoisetFM	105,500
+Lahti	HitMix	88,700
+Lahti	Iskelmä Lahti	106,000
+Lahti	Kasari	103,800
+Lahti	Lyhytaikainen radio	94,500
+Lahti	Lyhytaikainen radio	106,700
+Lahti	Lyhytaikainen radio	107,000
+Lahti	Nostalgia	87,600
+Lahti	NRJ	96,600
+Lahti	Radio City	102,000
+Lahti	Radio Helsinki	99,700
+Lahti	Radio Voima	98,600
+Lahti	SuomiRock	97,100
+Lahti	SuomiRäp	105,000
+Lahti	Top51	88,200
+Lappeenranta	Aito Iskelmä	97,700
+Lappeenranta	Classic Hits	107,100
+Lappeenranta	Ei vielä nimeä	107,600
+Lappeenranta	Iskelmä	93,500
+Lappeenranta	Kasari	97,400
+Lappeenranta	Loop	100,200
+Lappeenranta	Nostalgia	89,500
+Lappeenranta	NRJ	96,500
+Lappeenranta	PATMOS	104,300
+Lappeenranta	Radio City	106,500
+Lappeenranta	Radio Dei	96,000
+Lappeenranta	Radio Nova	103,800
+Lappeenranta	Radio Pooki	102,100
+Lappeenranta	Radio Rock	105,000
+Lappeenranta	Radio Suomipop	94,800
+Lappeenranta	SuomiRäp	94,200
+Lappeenranta	Yle Radio 1	88,000
+Lappeenranta	Yle Radio Suomi	89,100
+Lappeenranta	Yle Radio Suomi	98,500
+Lappeenranta	YleX	90,900
+Lapua	Classic Hits	104,100
+Lapua	Easy Hits	87,600
+Lapua	Groove FM	96,900
+Lapua	HitMix	98,200
+Lapua	Loop	96,200
+Lapua	Monikulttuuri	90,400
+Lapua	PATMOS	93,600
+Lapua	Radio Dei	89,400
+Lapua	Radio Nova	106,500
+Lapua	Radio Pooki	104,900
+Lapua	Radio Rock	100,400
+Lapua	Radio Suomipop	103,300
+Lapua	SuomiRäp	105,400
+Lapua	Yle Radio 1	88,200
+Lapua	Yle Radio Suomi	93,100
+Lapua	Yle Radio Vega	101,500
+Lapua	Yle X3M	95,200
+Lapua	YleX	90,100
+Laukaa	SM-RALLISPRINT LAUKAA	101,900
+Lestijärvi	Järviradio	99,100
+Lestijärvi	Radio Suomipop	92,900
+Lieksa	Karjalainen Syke	92,000
+Lieksa	Radio Dei	107,400
+Lieksa	Radio Nova	104,300
+Lieksa	Radio Sandels	91,100
+Lieksa	Radio Suomipop	94,700
+Lieksa	SuomiRäp	95,700
+Lieksa	Yle Radio 1	90,200
+Lieksa	Yle Radio Suomi	99,600
+Lieksa	Yle Radio Vega	102,400
+Lieksa	YleX	93,400
+Lieto	Järviradio	88,000
+Lohja	Iskelmä	105,500
+Lohja	Karnainen	87,500-108,000
+Lohja	Lehmihaka	87,500-108,000
+Lohja	Loop	96,500
+Lohja	Nostalgia	100,500
+Lohja	NRJ	88,800
+Lohja	Orosmäki	87,500-108,000
+Lohja	Pitkämäki	87,500-108,000
+Lohja	Radio City	99,100
+Lohja	Radio Dei	107,200
+Lohja	Radio Rock	104,800
+Lohja	SuomiRock	95,600
+Lohja	Tervakorpi	87,500-108,000
+Lohja	Yle Radio Suomi	96,100
+Loimaa	Auran Aallot	95,300
+Loimaa	Kasari	91,800
+Loimaa	Radio Rock	104,900
+Loimaa	Yle Radio Suomi	99,200
+Loviisa	Iskelmä Porvoo	106,700
+Loviisa	Loop	105,200
+Loviisa	Yle Radio 1	89,500
+Loviisa	Yle Radio Suomi	95,000
+Loviisa	Yle Radio Suomi	99,100
+Loviisa	Yle Radio Vega	98,300
+Loviisa	Yle X3M	102,200
+Loviisa	YleX	92,300
+Luoto	Radio LFF	98,000
+Mariehamn	Radio X3m	104,300
+Mariehamn	Rockklassiker	107,200
+Mariehamn	Steel FM	95,900
+Mikkeli	Aito Iskelmä	100,000
+Mikkeli	Groove FM	89,700
+Mikkeli	HitMix	107,500
+Mikkeli	Iskelmä	94,000
+Mikkeli	Järviradio	97,600
+Mikkeli	Kasari	95,000
+Mikkeli	Loop	100,900
+Mikkeli	NRJ	106,300
+Mikkeli	PATMOS	105,400
+Mikkeli	Radio City	104,200
+Mikkeli	Radio Dei	87,800
+Mikkeli	Radio Nova	106,900
+Mikkeli	Radio Rock	93,000
+Mikkeli	Radio Suomipop	104,800
+Mikkeli	SuomiRock	98,900
+Mikkeli	SuomiRäp	100,500
+Mikkeli	Tehdashallitoistin	87,500-108,000
+Mikkeli	Toriparkki 1.1	87,500-108,000
+Mikkeli	Toriparkki 1.2	87,500-108,000
+Mikkeli	Toriparkki 1.3	87,500-108,000
+Mikkeli	Toriparkki 1.4	87,500-108,000
+Mikkeli	Toriparkki 1.5	87,500-108,000
+Mikkeli	Toriparkki 1.6	87,500-108,000
+Mikkeli	Toriparkki 2.1	87,500-108,000
+Mikkeli	Toriparkki 2.2	87,500-108,000
+Mikkeli	Toriparkki 2.3	87,500-108,000
+Mikkeli	Toriparkki 2.4	87,500-108,000
+Mikkeli	Toriparkki 2.5	87,500-108,000
+Mikkeli	Toriparkki 2.6	87,500-108,000
+Mikkeli	Yle Radio 1	88,900
+Mikkeli	Yle Radio Suomi	94,600
+Mikkeli	YleX	92,100
+Muonio	Tunturien kirkko	89,300
+Muonio	Tunturien kirkko	89,300
+Muonio	Tunturien kirkko	89,300
+Muonio	Tunturien kirkko	89,300
+Muonio	Tunturien kirkko	89,300
+Muonio	Tunturien kirkko	89,300
+Muonio	Tunturien kirkko	89,300
+Muonio	Tunturien kirkko	89,300
+Muonio	Tunturien kirkko	89,300
+Muonio	Tunturien kirkko	89,300
+Muonio	Tunturien kirkko	89,300
+Muonio	Tunturien kirkko	89,300
+Muonio	Tunturien kirkko	89,300
+Mustasaari	Aito Iskelmä	98,000
+Mustasaari	Easy Hits	96,700
+Mustasaari	Groove FM	89,100
+Mustasaari	HitMix	105,800
+Mustasaari	Radio Rock	91,600
+Mustasaari	Radio Vaasa - Radio Vasa	99,500
+Mustasaari	SuomiRäp	104,400
+Mustasaari	Yle Radio 1	87,800
+Mustasaari	Yle Radio Suomi	94,800
+Mustasaari	Yle Radio Vega	101,000
+Mustasaari	Yle X3M	97,300
+Mustasaari	YleX	89,600
+Mänttä-Vilppula	Iskelmä	95,400
+Mänttä-Vilppula	PATMOS 	106,600
+Mänttä-Vilppula	Radio SUN	91,500
+Mänttä-Vilppula	Yle Radio Suomi	105,300
+Naantali	Classic Hits	88,300
+Naantali	PATMOS	90,100
+Nakkila	Radio Pooki	107,900
+Nivala	Järviradio	101,100
+Nivala	Radio Pooki	100,500
+Nokia	Järviradio	107,400
+Nurmes	Karjalainen Syke	101,000
+Orivesi	Radio Rock	89,300
+Oulu	Aito Iskelmä	98,700
+Oulu	Basso	101,400
+Oulu	Classic	99,600
+Oulu	Classic Hits	94,000
+Oulu	Easy Hits	103,500
+Oulu	HitMix	98,100
+Oulu	Iskelmä	89,400
+Oulu	Järviradio	107,400
+Oulu	Kasari	101,000
+Oulu	Kuhan FM	92,200
+Oulu	Loop	106,200
+Oulu	Nostalgia	94,300
+Oulu	NRJ	99,100
+Oulu	PATMOS	102,000
+Oulu	Radio City	103,100
+Oulu	Radio Dei	106,900
+Oulu	Radio Helsinki	90,900
+Oulu	Radio Kaleva	95,000
+Oulu	Radio Mega	105,900
+Oulu	Radio Nova	104,800
+Oulu	Radio Pooki	88,000
+Oulu	Radio Rock	95,800
+Oulu	Radio Sandels	94,700
+Oulu	Radio Suomipop	96,400
+Oulu	Sea FM Radio	88,800
+Oulu	SuomiRock	102,600
+Oulu	SuomiRäp	105,400
+Oulu	Top51	95,500
+Oulu	Yle Radio 1	90,400
+Oulu	Yle Radio 1	104,400
+Oulu	Yle Radio Suomi	97,300
+Oulu	Yle Radio Vega	100,300
+Oulu	YleX	93,200
+Outokumpu	Karjalainen Syke	101,700
+Padasjoki	Radio Nova	87,800
+Parikkala	Yle Radio Suomi	95,100
+Parkano	Aito Iskelmä	103,600
+Parkano	Groove FM	104,000
+Parkano	Iskelmä	99,000
+Parkano	Järviradio	99,600
+Parkano	Radio 957	90,300
+Parkano	Radio Pooki	87,800
+Parkano	Radio SUN	91,700
+Parkano	Radio Suomipop	100,200
+Pedersöre	Järviradio	94,600
+Pelkosenniemi	Aito Iskelmä	103,500
+Pelkosenniemi	NRJ	106,200
+Pelkosenniemi	Radio Nova	105,800
+Pelkosenniemi	Yle Radio 1	91,000
+Pelkosenniemi	Yle Radio Suomi	99,900
+Pelkosenniemi	YleX	97,600
+Pello	Yle Radio 1	90,200
+Pello	Yle Radio Suomi	99,700
+Pello	YleX	97,000
+Perho	Yle Radio Suomi	95,900
+Pertunmaa	Radio Nova	103,000
+Pieksämäki	Groove FM	102,200
+Pieksämäki	Iskelmä	93,300
+Pieksämäki	NRJ	96,500
+Pieksämäki	Radio City	101,300
+Pieksämäki	Radio Suomipop	103,000
+Pieksämäki	Yle Radio 1	89,400
+Pieksämäki	Yle Radio Suomi	97,400
+Pieksämäki	YleX	95,300
+Pietarsaari	Radio Suomi	96,000
+Pietarsaari	Yle Radio Suomi	87,900
+Pietarsaari	Yle Radio Vega	98,500
+Pihtipudas	Aito Iskelmä	91,800
+Pihtipudas	Iskelmä	107,000
+Pihtipudas	Järviradio	87,900
+Pihtipudas	Loop	104,500
+Pihtipudas	NRJ	101,700
+Pihtipudas	PATMOS	97,800
+Pihtipudas	Radio City	107,500
+Pihtipudas	Radio Keskisuomalainen	95,400
+Pihtipudas	Radio Nova	105,100
+Pihtipudas	Radio Suomipop	102,300
+Pihtipudas	SuomiRock	101,300
+Pihtipudas	SuomiRäp	98,700
+Pihtipudas	Yle Radio 1	88,600
+Pihtipudas	Yle Radio Suomi	97,000
+Pihtipudas	Yle Radio Vega	100,800
+Pihtipudas	YleX	91,100
+Pori	Classic Hits	91,300
+Pori	Järviradio	95,400
+Pori	Kasari	101,000
+Pori	Nostalgia	89,900
+Pori	NRJ	98,700
+Pori	Radio City Pori	88,200
+Pori	Radio Helsinki	97,600
+Pori	Radio Nova	91,600
+Pori	Radio Pori	89,400
+Pori	SuomiRock	106,400
+Pori	Top51	102,400
+Pori	Yle Radio Suomi	106,900
+Porvoo	Iskelmä Porvoo	99,800
+Porvoo	Nostalgia	88,400
+Porvoo	NRJ	93,500
+Porvoo	Radio City	107,900
+Porvoo	Radio Pooki	107,600
+Porvoo	Radio Rock	104,800
+Porvoo	Yle Radio 1	96,400
+Porvoo	Yle Radio Suomi	90,800
+Porvoo	Yle Radio Vega	95,900
+Posio	Yle Radio 1	87,600
+Posio	Yle Radio Suomi	98,600
+Posio	YleX	91,500
+Pudasjärvi	Harjoitusradio	94,600
+Pudasjärvi	Radio Kaleva	89,800
+Raahe	Aito Iskelmä	98,900
+Raahe	Iskelmä	92,500
+Raahe	Loop	92,900
+Raahe	NRJ	87,700
+Raahe	PATMOS	101,500
+Raahe	Radio City	100,700
+Raahe	Radio Dei	95,200
+Raahe	Radio Kaleva	95,700
+Raahe	Radio Pooki	94,800
+Raahe	Radio Rock	89,900
+Raahe	Radio Suomipop	105,800
+Raahe	SuomiRäp	107,000
+Raahe	Teräsradio 1 Iskelmä	97,900
+Raahe	Teräsradio 2 Basso	101,200
+Raahe	Teräsradio 3 Radio Nova	105,300
+Raahe	Teräsradio 4 Radio Rock	88,400
+Raahe	Teräsradio 5 Ylex	90,900
+Raahe	Teräsradio 6 Radio Suomi	93,800
+Raahe	Yle Radio 1	89,500
+Raahe	Yle Radio 1	106,500
+Raahe	Yle Radio Suomi	102,500
+Raahe	YleX	91,800
+Raasepori	Classic	104,300
+Raasepori	Easy Hits	89,400
+Raasepori	Iskelmä	95,100
+Raasepori	Loop	107,000
+Raasepori	Radio Dei	92,300
+Raasepori	Radio Rock	91,400
+Raasepori	Radio Suomipop	103,200
+Raasepori	SuomiRäp	100,200
+Raasepori	Yle Radio 1	90,900
+Raasepori	Yle Radio Suomi	97,000
+Raasepori	Yle Radio Vega	99,700
+Raasepori	Yle X3M	102,500
+Raasepori	YleX	93,100
+Ranua	Opistoradio	94,800
+Rauma	Classic Hits	99,700
+Rauma	Easy Hits	106,700
+Rauma	HitMix	105,100
+Rauma	Järviradio	107,700
+Rauma	NRJ	93,900
+Rauma	Radio Ramona	93,300
+Rauma	Top51	92,900
+Riihimäki	SCM Radio	100,800
+Rovaniemi	Aito Iskelmä	99,500
+Rovaniemi	Classic Hits	87,700
+Rovaniemi	Harjoitusradio	90,000
+Rovaniemi	Iskelmä Rovaniemi	97,200
+Rovaniemi	Kasari	104,500
+Rovaniemi	Loop	105,100
+Rovaniemi	NRJ	101,100
+Rovaniemi	PATMOS	107,800
+Rovaniemi	Radio City	90,500
+Rovaniemi	Radio Dei	93,400
+Rovaniemi	Radio Kaleva	89,300
+Rovaniemi	Radio Nova	105,500
+Rovaniemi	Radio Pooki	96,000
+Rovaniemi	Radio Rock	106,300
+Rovaniemi	Radio Suomipop	103,300
+Rovaniemi	Sea FM Radio	98,300
+Rovaniemi	SuomiRock	98,800
+Rovaniemi	SuomiRäp	102,000
+Rovaniemi	Yle Radio 1	88,200
+Rovaniemi	Yle Radio Suomi	96,700
+Rovaniemi	Yle Sami Radio	103,000
+Rovaniemi	YleX	94,000
+Ruovesi	Radio 957	103,300
+Saarijärvi	Järviradio	90,500
+Saarijärvi	Serres 1	104,100
+Salo	Auran Aallot Salo	93,500
+Salo	Hepomäki	87,500-108,000
+Salo	Järviradio	102,900
+Salo	Lakiamäki	87,500-108,000
+Salo	Loop	107,700
+Salo	Nostalgia	97,300
+Salo	NRJ	102,200
+Salo	SuomiRock	96,300
+Salo	SuomiRäp	105,200
+Salo	Top51	88,200
+Salo	Yle Radio Suomi	105,800
+Sastamala	Groove FM	93,400
+Sastamala	Iskelmä Sastamala	97,700
+Sastamala	Radio City	89,500
+Sastamala	Radio Suomipop	88,000
+Sastamala	SuomiRäp	101,200
+Savitaipale	Yle Radio Suomi	97,200
+Savonlinna	Aito Iskelmä	106,100
+Savonlinna	Groove FM	101,400
+Savonlinna	HitMix	107,100
+Savonlinna	Iskelmä	94,100
+Savonlinna	Järviradio	89,600
+Savonlinna	Kasari	93,600
+Savonlinna	NRJ	105,200
+Savonlinna	PATMOS	94,400
+Savonlinna	Radio City	104,200
+Savonlinna	Radio Dei	91,300
+Savonlinna	Radio Nova	107,700
+Savonlinna	Radio Rock	100,000
+Savonlinna	Radio Suomipop	96,700
+Savonlinna	Yle Radio 1	90,500
+Savonlinna	Yle Radio Suomi	97,700
+Savonlinna	Yle Radio Suomi	99,100
+Savonlinna	YleX	95,800
+Seinäjoki	Aito Iskelmä	91,500
+Seinäjoki	Classic	107,400
+Seinäjoki	Iskelmä	104,500
+Seinäjoki	Järviradio	99,100
+Seinäjoki	Kasari	101,800
+Seinäjoki	NRJ	95,700
+Seinäjoki	Radio City	103,700
+Sievi	Halli 1	87,500-108,000
+Sievi	Halli 2	87,500-108,000
+Sievi	Iskelmä	107,700
+Sievi	Radio Pooki	95,500
+Sievi	Radio Suomipop	104,600
+Sievi	SuomiRäp	103,000
+Sievi	Yle Radio Suomi	90,300
+Siilinjärvi	Top51	89,300
+Sodankylä	Yle Radio 1	87,800
+Sodankylä	Yle Radio Suomi	94,300
+Sodankylä	Yle Sami Radio	101,300
+Sodankylä	YleX	90,100
+Sotkamo	Aito Iskelmä	95,400
+Sotkamo	HitMix	107,000
+Sotkamo	Kuhan FM	93,700
+Sotkamo	Loop	94,800
+Sotkamo	Radio Dei	100,000
+Sotkamo	Radio Nova	105,700
+Sotkamo	Radio Sandels	107,500
+Sotkamo	Radio Suomipop	96,300
+Sotkamo	Yle Radio 1	92,300
+Sotkamo	Yle Radio Suomi	98,900
+Sotkamo	YleX	94,300
+Sund	P4 Stockholm	102,300
+Sund	Radio Suomi	100,300
+Sund	Radio Vega	93,100
+Sund	Radio X3m	104,900
+Sund	Sr P1	95,000
+Sund	Sr P2	97,100
+Sund	Sr P3	88,600
+Sund	Ålands Radio	91,300
+Suomussalmi	Aito Iskelmä	87,900
+Suomussalmi	NRJ	104,500
+Sysmä	Aito Iskelmä	106,800
+Sysmä	Loop	89,100
+Sysmä	NRJ	96,100
+Sysmä	Radio City	101,300
+Sysmä	Radio Nova	90,200
+Sysmä	Radio Rock	93,500
+Sysmä	Radio Voima	94,900
+Säkylä	Auran Aallot	97,500
+Taivalkoski	Radio Kaleva	102,200
+Taivalkoski	Radio Nova	105,000
+Taivalkoski	Yle Radio 1	89,200
+Taivalkoski	Yle Radio Suomi	99,200
+Taivalkoski	Yle Radio Suomi	103,600
+Taivalkoski	YleX	91,900
+Tammela	Loop	90,100
+Tammela	Radio Rock	107,500
+Tammela	Radio Suomipop	103,300
+Tammela	Yle Radio 1	89,200
+Tammela	Yle Radio Suomi	96,000
+Tammela	YleX	91,300
+Tampere	Basso	89,600
+Tampere	Basso	101,200
+Tampere	Classic	92,200
+Tampere	Easy Hits	105,200
+Tampere	Groove FM	88,700
+Tampere	HitMix	106,100
+Tampere	Iskelmä	103,800
+Tampere	Iskelmä (SFN)	103,800
+Tampere	Kantriradio	91,600
+Tampere	NRJ	90,000
+Tampere	Radio City	97,200
+Tampere	Radio Moreeni	98,400
+Tampere	Radio Musa	100,500
+Tampere	Radio Nova	104,700
+Tampere	Radio Pooki	0,729
+Tampere	Radio Rock	100,900
+Tampere	Yle Radio 1	90,700
+Tampere	Yle Radio Suomi	99,900
+Tampere	Yle Radio Vega	102,100
+Tampere	YleX	93,700
+Tervola	Radio Nova	107,500
+Tervola	Radio Pooki	89,500
+Tervola	Radio Suomipop	96,200
+Tervola	Yle Radio 1	88,600
+Tervola	Yle Radio Suomi	95,600
+Tervola	YleX	92,600
+Teuva	Järviradio	91,300
+Teuva	NRJ 	106,100
+Teuva	Radio Vaasa - Radio Vasa	97,700
+Tohmajärvi	Yle Radio Suomi	98,300
+Tornio	Aito Iskelmä	92,000
+Tornio	Iskelmä	95,000
+Tornio	Loop	98,300
+Tornio	PATMOS	101,300
+Tornio	Radio City	106,400
+Tornio	Radio Dei	100,500
+Tornio	Radio Rock	98,800
+Tornio	Radio Suomipop	106,000
+Tornio	SuomiRäp	105,200
+Tornio	Yle Radio Suomi	103,700
+Turku	Auran Aallot	90,500
+Turku	Iskelmä	100,100
+Turku	Kasari	89,000
+Turku	Nostalgia	100,500
+Turku	NRJ	104,600
+Turku	Radio City	105,500
+Turku	Radio Helsinki	89,300
+Turku	SuomiRäp	101,900
+Turku	Top51	99,000
+Ulvila	Aito Iskelmä	100,000
+Ulvila	Classic	104,800
+Ulvila	Easy Hits	104,100
+Ulvila	HitMix	100,400
+Ulvila	PATMOS	89,100
+Ulvila	YleX	97,000
+Utsjoki	Yle Radio 1	88,100
+Utsjoki	Yle Radio 1	88,600
+Utsjoki	Yle Radio 1	89,500
+Utsjoki	Yle Radio 1	90,700
+Utsjoki	Yle Radio Suomi	94,400
+Utsjoki	Yle Radio Suomi	96,800
+Utsjoki	Yle Radio Suomi	97,700
+Utsjoki	Yle Radio Suomi	99,400
+Utsjoki	Yle Sami Radio	100,800
+Utsjoki	Yle Sami Radio	101,200
+Utsjoki	Yle Sami Radio	101,700
+Utsjoki	Yle Sami Radio	102,600
+Utsjoki	YleX	90,200
+Utsjoki	YleX	93,100
+Utsjoki	YleX	93,400
+Utsjoki	YleX	93,900
+Uusikaarlepyy	Mirka	87,500-108,000
+Uusikaarlepyy	Yle Radio Suomi	106,900
+Uusikaupunki	Auran Aallot	100,900
+Uusikaupunki	Iskelmä	96,200
+Uusikaupunki	Kasari	88,500
+Uusikaupunki	Radio City	105,700
+Uusikaupunki	SuomiRäp	91,100
+Uusikaupunki	Yle Radio Suomi	107,100
+Vaasa	Classic Hits	107,900
+Vaasa	Iskelmä	88,700
+Vaasa	Järviradio	103,000
+Vaasa	Kantriradio	93,400
+Vaasa	Kasari	91,200
+Vaasa	Loop	90,500
+Vaasa	Nostalgia	98,400
+Vaasa	NRJ	93,900
+Vaasa	PATMOS	92,500
+Vaasa	Radio City	100,700
+Vaasa	Radio Dei	98,800
+Vaasa	Radio Suomipop	102,000
+Vaasa	Top51	95,600
+Valkeakoski	Classic	90,300
+Valkeakoski	Iskelmä	95,000
+Valkeakoski	NRJ	102,800
+Valkeakoski	Radio City	87,600
+Valkeakoski	Radio SUN	96,700
+Valkeakoski	SuomiRäp	94,400
+Vantaa	Urheilutapahtumaradio	92,200
+Varkaus	Classic Hits	88,500
+Varkaus	Groove FM	92,700
+Varkaus	Loop	102,800
+Varkaus	NRJ	105,500
+Varkaus	Radio Suomipop	91,000
+Varkaus	Top51	104,000
+Viitasaari	Järviradio	89,600
+Vimpeli	Järviradio	89,700
+Vöyri	Mirka	87,500-108,000
+Ylitornio	Yle Radio 1	87,900
+Ylitornio	Yle Radio Suomi	94,700
+Ylitornio	YleX	89,800
+Ylöjärvi	Aito Iskelmä	95,300
+Ylöjärvi	Kasari	94,100
+Ylöjärvi	Loop	105,600
+Ylöjärvi	Nostalgia	92,700
+Ylöjärvi	Radio Dei	98,800
+Ylöjärvi	Radio Helsinki	106,800
+Ylöjärvi	Radio Rock	104,200
+Ylöjärvi	Radio SUN	107,800
+Ylöjärvi	SuomiRock	97,500
+Ylöjärvi	SuomiRäp	103,100
+Ylöjärvi	Tampereen Kiakkoradio	89,000
+Ypäjä	Iskelmä	98,500
+Ypäjä	NRJ	107,900
+Ypäjä	Radio City Forssa	88,600
+Ypäjä	SuomiRock	91,000
+Ähtäri	Groove FM	97,800
+Ähtäri	HitMix	89,100
+Ähtäri	Loop	105,500
+Ähtäri	NRJ	98,400
+Ähtäri	Radio City	106,900
+Ähtäri	Radio Suomipop	104,900
+Ähtäri	Yle Radio 1	91,900
+Ähtäri	Yle Radio Suomi	96,600
+Ähtäri	YleX	94,600
+Äänekoski	Järviradio	102,800
+Äänekoski	Loop	98,300
+Äänekoski	PATMOS	89,200
+Äänekoski	SM-HIIHDOT ÄÄNEKOSKI	95,600
+Äänekoski	SuomiRock	100,500
+Äänekoski	SuomiRäp	92,900
+Äänekoski	Top51	88,400
