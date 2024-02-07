@@ -27,7 +27,7 @@ function createTable(tableData) {
     htmlTable.id = 'frequenciesTable';
     // Luodaan otsikkorivi
     const headerRow = htmlTable.insertRow();
-    const columns = ["Kunta", "Aseman nimi", "Taajuus (MHz)"];
+    const columns = ["Location", "Radio Station", "Frequency (MHz)"];
     // Luodaan otsikkosolut
     columns.forEach(column => {
         const cell = headerRow.insertCell();
