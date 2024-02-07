@@ -39,8 +39,8 @@ function createTable(tableData) {
         const row = htmlTable.insertRow();
         rowData.forEach((cellData, index) => {
             const cell = row.insertCell();
-            // Lisätään hyperlinkki "Aseman nimi" soluun
-            if (columns[index] === "Aseman nimi") {
+            // Lisätään hyperlinkki "Radio Station" sarakkeen soluihin
+            if (columns[index] === "Radio Station") {
                 //kutsutaan createLink funktiota, että saadaan "Aseman nimi" -sarakkeeseen linkit automatiikalla 
                 const link = createLink(cellData);
                 cell.appendChild(link);
