@@ -20,4 +20,7 @@ ran again through a modified [Python script](https://github.com/MacStache/WhatsT
 the station names from [the file](https://github.com/MacStache/WhatsTheFrequency/blob/main/text/stations_list.txt). 
 It also removes duplicates which made the link table easier to manage. 
 
+The site also includes a favorites page that allows the user to add their favorite stations to a list. The list is stored in the local storage of the users browser.
+The functionality also includes a button that allows the user to remove the station from the list, as well as unchecking the checkbox in the frequencies table. 
+
 The site is a final project for the course "Web Applications" at [Oulu University of Applied Sciences](https://oamk.fi/en/).
