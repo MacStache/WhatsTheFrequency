@@ -150,8 +150,8 @@ table td:nth-child(3) {
     width: 100%;
   }
   div#about {
-    margin-top: 15em;
-    margin-bottom: 30em;
+    margin-top: 20em;
+    margin-bottom: 35em;
   }
   div#about p {
     font-size: normal;
@@ -165,8 +165,8 @@ table td:nth-child(3) {
     font-size: smaller;
   }
   div#about {
-    margin-top: 17em;
-    margin-bottom: 25em;
+    margin-top: 20em;
+    margin-bottom: 30em;
   }
   div#about p {
     font-size: normal;
