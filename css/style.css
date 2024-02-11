@@ -71,7 +71,6 @@ nav ul {
 }
 nav ul li {
   display: inline-block;
-  width: 5em;
   margin-right: 1em;
 }
 
@@ -82,8 +81,9 @@ div#about {
   height: 150px;
   flex-direction: column;
   margin: 1em;
-  margin-top: 250px;
+  margin-bottom: 100px;
 }
+
 div#about img {
   width: 100%;
   height: auto;
@@ -129,13 +129,17 @@ table tr:first-child {
 }
 table td:last-child {
   text-align: center;
-  width: 20%;
+  width: 5%;
 }
 table td:first-child {
   width: 20%;
 }
 table td:nth-child(2) {
-  width: 60%;
+  width: 40%;
+}
+table td:nth-child(3) {
+  width: 15%;
+  text-align: center;
 }
 
 @media only screen and (max-width: 1200px) {

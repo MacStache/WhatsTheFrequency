@@ -3,18 +3,26 @@ const searchInput = document.getElementById('location');
 let table;  // taulukon oma muuttuja
 let firstRow; // firstRow muuttuja, joka sisältää ensimmäisen rivin
 
-// Lataa taulukon heti sivun latautuessa
-fetch('text/cleaned_frequencies.txt')
-    .then(response => response.text())
-    .then(data => {
-        // Luodaan taulukko datasta, tehdään rivit ja sarakkeet oikeissa paikoissa
-        const rows = data.split('\n');
-        const tableData = rows.map(row => row.split('\t'));
-        table = createTable(tableData);
-        document.body.appendChild(table);
-    })
-    .catch(error => console.error('Error fetching the file:', error));
-
+// Käynnistetään tapahtumankäsittelijä, joka reagoi sivun latautumiseen. Eli, kun sivu on ladattu niin suoritetaan tämä funktio
+document.addEventListener('DOMContentLoaded', function () {
+    // Jos sivu on frequencies.html, niin ladataan taajuudet
+    if (window.location.pathname.includes("frequencies.html")) {
+        // Ladataan taajuudet tekstitiedostosta
+        fetch('text/cleaned_frequencies.txt')
+            .then(response => response.text())
+            .then(data => {
+                const rows = data.split('\n');
+                const tableData = rows.map(row => row.split('\t'));
+                table = createTable(tableData, true); // Luodaan taulukko, jossa on myös favorite sarake (Tämä loadFavorites-funktion käyttöä varten)
+                document.body.appendChild(table);
+            })
+            .catch(error => console.error('Error fetching the file:', error));
+    //Jos sivu on favorites.html, niin ladataan suosikit
+    } else if (window.location.pathname.includes("favorites.html")) {
+        // Ladataan suosikit
+        loadFavorites();
+    }
+});
 // Käynnistetään tapahtumankäsittelijä, joka reagoi input-elementin muutoksiin. Eli, jos input boxin sisältö muuttuu niin haku pyörähtää
 searchInput.addEventListener('input', function () {
     // Suoritetaan haku!
@@ -22,26 +30,50 @@ searchInput.addEventListener('input', function () {
 });
 
 // Funktio joka luo ja palauttaa taulukon
-function createTable(tableData) {
+function createTable(tableData, includeFavorite) {
     const htmlTable = document.createElement('table');
     htmlTable.id = 'frequenciesTable';
-    // Luodaan otsikkorivi
     const headerRow = htmlTable.insertRow();
+    //Lisätään perusotsikot
     const columns = ["Location", "Radio Station", "Frequency (MHz)"];
-    // Luodaan otsikkosolut
+    //Jos includeFavorite on true, niin lisätään otsikko "Favorite". 
+    //Tämä oli tarkoitettu aluksi favorites.html sivulle, mutta siitä tuli myös osa frequencies sivua
+    if (includeFavorite) {
+        columns.push("Favorite");
+    }
     columns.forEach(column => {
         const cell = headerRow.insertCell();
         cell.textContent = column;
     });
-
-    // Lisätään rivit taulukkoon
+    // Luodaan taulukosta kopio, jonka avulla voidaan käydä taulukko läpi. 
+    // Kopio siksi, että alkuperäinen data pysyy turvassa.
     tableData.slice(0).forEach(rowData => {
         const row = htmlTable.insertRow();
         rowData.forEach((cellData, index) => {
             const cell = row.insertCell();
-            // Lisätään hyperlinkki "Radio Station" sarakkeen soluihin
-            if (columns[index] === "Radio Station") {
-                //kutsutaan createLink funktiota, että saadaan "Aseman nimi" -sarakkeeseen linkit automatiikalla 
+            // Jos includeFavorite on true ja ollaan "Favorite" sarakkeessa, niin lisätään checkbox
+            if (includeFavorite && columns[index] === 'Favorite') {
+                // Lisätään checkbox
+                const checkbox = document.createElement('input');
+                checkbox.type = 'checkbox';
+                const [location, radioStation, frequency] = rowData;
+                // Tarkistetaan onko tämä suosikki ja asetetaan checkboxin tila sen mukaan. 
+                // Tämä tarkoittaa siis sitä, että sivuston lataamisen yhteydessä checkbox pysyy checkattuna
+                // Jos suosikki on jo olemassa
+                checkbox.checked = isFavorite(location, radioStation, frequency);
+                // Lisätään tapahtumankäsittelijä, joka reagoi checkboxin muutoksiin
+                checkbox.addEventListener('change', function(event) {
+                    if (event.target.checked) {
+                        // Jos checkbox checkataan, niin lisätään suosikki
+                        addFavorite(location, radioStation, frequency);
+                    } else {
+                        // Jos checkbox uncheckataan, niin poistetaan suosikki
+                        removeFavorite(location, radioStation, frequency);
+                    }
+                });
+                cell.appendChild(checkbox);
+            } else if (columns[index] === "Radio Station") {
+                // Luodaan linkit radiokanavien nimiin
                 const link = createLink(cellData);
                 cell.appendChild(link);
             } else {
@@ -49,7 +81,7 @@ function createTable(tableData) {
             }
         });
     });
-    // palautetaan taulukko
+
     return htmlTable;
 }
 
@@ -77,6 +109,91 @@ function performSearch() {
             }
         }
     });
+}
+
+//funktio, joka lisää suosikin localstorageen
+function addFavorite(location, radioStation, frequency) {
+    // Haetaan suosikit localstoragesta
+    const favorites = getFavoritesFromLocalStorage();
+    // Luodaan uusi suosikki
+    const newFavorite = { location, radioStation, frequency };
+    // Lisätään suosikki suosikkeihin
+    favorites.push(newFavorite);
+    // Tallennetaan suosikit localstorageen
+    localStorage.setItem('favorites', JSON.stringify(favorites));
+}
+
+//funktio, joka hakee suosikit localstoragesta
+function getFavoritesFromLocalStorage() {
+    // Haetaan suosikit localstoragesta
+    const favoritesJson = localStorage.getItem('favorites');
+    // Jos suosikkeja on, niin palautetaan ne
+    if (favoritesJson) {
+        return JSON.parse(favoritesJson);
+    } else {
+        return []; // Palautetaan tyhjä taulukko, jos suosikkeja ei ole
+    }
+}
+// Funktio, joka poistaa suosikin localstoragesta
+function removeFavorite(location, radioStation, frequency) {
+    // Haetaan suosikit localstoragesta
+    const favorites = getFavoritesFromLocalStorage();
+    // Etsitään suosikki, joka poistetaan
+    const index = favorites.findIndex(favorite =>
+        favorite.location === location &&
+        favorite.radioStation === radioStation &&
+        favorite.frequency === frequency
+    );
+    // Jos suosikki löytyy, niin poistetaan se
+    if (index !== -1) {
+        // Poistetaan suosikki taulukosta
+        favorites.splice(index, 1);
+        // Tallennetaan suosikit localstorageen
+        localStorage.setItem('favorites', JSON.stringify(favorites));
+    }
+}
+// Funktio, joka tarkistaa onko suosikki jo olemassa
+function isFavorite(location, radioStation, frequency) {
+    // Haetaan suosikit localstoragesta
+    const favorites = getFavoritesFromLocalStorage();
+    // Tarkistetaan onko suosikki jo olemassa ja palautetaan tieto siitä
+    return favorites.some(favorite =>
+        favorite.location === location &&
+        favorite.radioStation === radioStation &&
+        favorite.frequency === frequency
+    );
+}
+
+// Funktio, joka lataa suosikit localstoragesta ja tekee niistä taulukon
+function loadFavorites() {
+    // Haetaan suosikit localstoragesta
+    const favorites = getFavoritesFromLocalStorage();
+    // Haetaan taulukko, johon suosikit lisätään
+    const tableContainer = document.getElementById('favoritesTableContainer');
+    // Jos suosikkeja on, niin luodaan taulukko
+    if (favorites.length > 0) {
+        // Luodaan taulukko, jossa on suosikit. Tässä käytetään kartoitusta, jonka avulla saadaan suosikit taulukkoon createTable -funktion kautta
+        const table = createTable(favorites.map(favorite => [favorite.location, favorite.radioStation, favorite.frequency]), true);
+        // Lisätään suosikeille poista-nappi
+        table.querySelectorAll('tr').forEach((row, index) => {
+            if (index !== 0) { // Skipataan otsikkorivi
+                const removeCell = row.insertCell(); // Lisätään solu
+                const removeButton = document.createElement('button'); // Luodaan poista-nappi
+                removeButton.textContent = 'Remove'; // Asetetaan napin teksti
+                removeButton.addEventListener('click', function() {
+                    // poistetaan kanava suosikeista. Ensin poistetaan rivia ja sitten poistetaan suosikki localstoragesta
+                    row.remove();
+                    removeFavorite(favorites[index - 1].location, favorites[index - 1].radioStation, favorites[index - 1].frequency);
+                });
+                //  poistetaan poista-napin solu
+                removeCell.appendChild(removeButton);
+            }
+        });
+        // Lisätään taulukko html-sivulle
+        tableContainer.appendChild(table);
+    } else {
+        tableContainer.textContent = "No favorites found.";
+    }
 }
 
 // Funktio luo hyperlinkin tekstiin perustuen
