@@ -81,6 +81,7 @@ div#about {
   height: 150px;
   flex-direction: column;
   margin: 1em;
+  margin-top: 15em;
   margin-bottom: 100px;
 }
 
@@ -89,9 +90,11 @@ div#about img {
   height: auto;
 }
 div#about p {
+  padding: 1px;
   font-size: large;
   text-align: justify;
   max-width: 750px;
+  margin-bottom: 5px;
 }
 div#about a {
   text-decoration: underline;
@@ -147,20 +150,113 @@ table td:nth-child(3) {
     width: 100%;
   }
   div#about {
-    margin-top: 300px;
+    margin-top: 15em;
+    margin-bottom: 30em;
   }
   div#about p {
     font-size: normal;
     width: 100%;
   }
 }
-@media only screen and (max-width: 799px) {
+
+@media only screen and (max-width: 992px) {
   table {
     width: 100%;
-    font-size: small;
+    font-size: smaller;
   }
   div#about {
-    margin-top: 400px;
+    margin-top: 15em;
+    margin-bottom: 20em;
+  }
+  div#about p {
+    font-size: normal;
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 768px) {
+  table {
+    width: 100%;
+    font-size: smaller;
+  }
+  div#about {
+    margin-top: 20em;
+    margin-bottom: 20em;
+  }
+  div#about p {
+    font-size: normal;
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 480px) {
+  table {
+    width: 100%;
+    font-size: smaller;
+  }
+  div#about {
+    margin-top: 27em;
+    margin-bottom: 32em;
+  }
+  div#about p {
+    font-size: normal;
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 428px) {
+  table {
+    width: 100%;
+    font-size: smaller;
+  }
+  div#about {
+    margin-top: 25em;
+    margin-bottom: 28em;
+  }
+  div#about p {
+    font-size: normal;
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 414px) {
+  table {
+    width: 100%;
+    font-size: smaller;
+  }
+  div#about {
+    margin-top: 27em;
+    margin-bottom: 31em;
+  }
+  div#about p {
+    font-size: normal;
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 390px) {
+  table {
+    width: 100%;
+    font-size: smaller;
+  }
+  div#about {
+    margin-top: 28em;
+    margin-bottom: 33em;
+  }
+  div#about p {
+    font-size: normal;
+    width: 100%;
+  }
+}
+
+@media only screen and (max-width: 360px) {
+  table {
+    width: 100%;
+    font-size: smaller;
+  }
+  div#about {
+    margin-top: 29em;
+    margin-bottom: 34em;
   }
   div#about p {
     font-size: normal;
