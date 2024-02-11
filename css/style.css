@@ -151,12 +151,4 @@ table td:nth-child(3) {
     width: 100%;
     font-size: smaller;
   }
-  div#about {
-    width: 90%;
-    margin-bottom: 60px;
-  }
-  div#about p {
-    font-size: normal;
-    width: 100%;
-  }
 }
