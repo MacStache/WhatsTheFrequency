@@ -136,30 +136,10 @@ table td:nth-child(3) {
 
 @media only screen and (max-width: 1200px) {
   div#about {
-<<<<<<< HEAD
     margin-left: 1%;
     margin-right: 2%;
     max-width: 90%;
     margin-bottom: 60px;
-=======
-    margin-top: 20em;
-    margin-bottom: 35em;
-  }
-  div#about p {
-    font-size: normal;
-    width: 100%;
-  }
-}
-
-@media only screen and (max-width: 1080px) {
-  table {
-    width: 100%;
-    font-size: smaller;
-  }
-  div#about {
-    margin-top: 20em;
-    margin-bottom: 30em;
->>>>>>> 673f72a9ad04b0afd037d281871a0d652970b52e
   }
   div#about p {
     font-size: normal;
