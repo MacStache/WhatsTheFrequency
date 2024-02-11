@@ -159,6 +159,21 @@ table td:nth-child(3) {
   }
 }
 
+@media only screen and (max-width: 1080px) {
+  table {
+    width: 100%;
+    font-size: smaller;
+  }
+  div#about {
+    margin-top: 17em;
+    margin-bottom: 25em;
+  }
+  div#about p {
+    font-size: normal;
+    width: 100%;
+  }
+}
+
 @media only screen and (max-width: 992px) {
   table {
     width: 100%;
