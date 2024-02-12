@@ -14,11 +14,10 @@ desired_columns = ["Aseman nimi"]
 
 # Avataan tiedostot ja luetaan ne. Tässä oli tärkeää valita input encodingiksi latin-1,
 # jotta tiedosto saatiin luettua oikein. alkuperäisessä tiedostossa oli ns. "ihme merkkejä".
-# ELi luultavasti ääkkösiä.
+# Eli luultavasti ääkkösiä.
 with open(input_file_path, 'r', encoding='latin-1') as input_file:
     with open(output_file_path, 'w', encoding='utf-8', newline='') as output_file:
-        # Luetaan tiedostot. Tässä käytetään DictReaderia, joka mahdollistaa tiedoston lukemisen
-        # sanakirjamuodossa. Tämä helpottaa tiedoston käsittelyä.
+        # Luetaan tiedostot. Tässä käytetään DictReaderia
         # Tämän lisäksi tärkeää oli laittaa delimiteriksi tabulaattori, jotta tiedosto saatiin
         # luettua oikein. Alkuperäisessä tiedostossa oli sarakkeiden välissä tabulaattori.
         reader = csv.DictReader(input_file, delimiter='\t')
