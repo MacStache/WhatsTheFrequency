@@ -1,4 +1,4 @@
-# WhatsTheFrequency
+# What's The Frequency?
 What's The Frequency is a web application that allows the user to find the radio frequencies available 
 at the location that they are at right now. The site uses a script to parse the contents of a text file into a table, 
 which hosts all the publicly available radio frequencies in Finland.

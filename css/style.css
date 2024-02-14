@@ -88,6 +88,7 @@ div#about {
   margin-top: 15px;
   margin-left: auto;
   margin-right: auto;
+  margin-bottom: 50px;
   padding: 1em;
   box-shadow: 1px 1px 3px 1px #888888;
 }
@@ -111,7 +112,7 @@ table {
   border-collapse: collapse;
   margin: auto;
   margin-top: 15px;
-  margin-bottom: 30px;
+  margin-bottom: 50px;
   width: 75%;
   box-shadow: 1px 1px 3px 1px #888888;
 }
